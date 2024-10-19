@@ -1,0 +1,26 @@
+{
+    "comments": [
+            {
+                "id": 1,
+                "image": "https://media.licdn.com/dms/image/v2/D4D03AQEWWPE7dtf6uQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1711917602293?e=1734566400&v=beta&t=keYGvGBky058e1fi3I9vCPpJUzFyEUlKH6_OZgMBxHM",
+                "name": "Monaliza Loren",
+                "body": "Atuei em alguns projetos de desenvolvimento de software com o Alisson e posso destacar várias qualidades que o tornam um excelente profissional: seu profissionalismo, pontualidade, comprometimento e a busca constante pela excelência. Em cada oportunidade, ele trouxe novos conhecimentos e suas entregas sempre superaram as expectativas, surpreendendo a todos. Sem dúvida, o Alisson é uma pessoa que agrega muito valor à equipe em que está, sendo impossível não notar sua contribuição.",
+                "profession":"Desenvolvedora"
+            },
+            {
+                "id": 2,
+                "image": "https://media.licdn.com/dms/image/v2/D4D03AQGd6EyQ76JvFQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1718235098569?e=1734566400&v=beta&t=C-1cpC0s_Ik1s6IHZcNFc1aandGD5PbeFUrZcudQME4",
+                "name": "Mirraely Moura",
+                "body": "Atuei em alguns projetos de desenvolvimento de software com o Alisson e posso destacar várias qualidades que o tornam um excelente profissional: seu profissionalismo, pontualidade, comprometimento e a busca constante pela excelência. Em cada oportunidade, ele trouxe novos conhecimentos e suas entregas sempre superaram as expectativas, surpreendendo a todos. Sem dúvida, o Alisson é uma pessoa que agrega muito valor à equipe em que está, sendo impossível não notar sua contribuição.",
+                "profession":"Desenvolvedora Web"
+            },
+            {
+                "id": 3,
+                "image": "https://media.licdn.com/dms/image/v2/D4D03AQF6H2Vlbr-Ftg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1675950162175?e=1734566400&v=beta&t=rbMzzPm3U_QuZa2GBg_C9LMj5oXNnIZPuyY9Lvp8cNA",
+                "name": "Jeferson Oliveira",
+                "body": "Profissional que sempre está a disposição para ajudar, tem bastante conhecimento em sua área, dedicado e comprometido com as suas atividades. Desempenhamos muitas demandas no período em que tive a oportunidade de trabalhar com ele, demostrando a competência em ouvir e estar aberto a novos conceitos e aplica-los na execução das tarefas.",
+                "profession":"Software Developer | Back-End .Net"
+            }
+    ]
+    
+}
