@@ -21,6 +21,44 @@
                 "body": "Profissional que sempre está a disposição para ajudar, tem bastante conhecimento em sua área, dedicado e comprometido com as suas atividades. Desempenhamos muitas demandas no período em que tive a oportunidade de trabalhar com ele, demostrando a competência em ouvir e estar aberto a novos conceitos e aplica-los na execução das tarefas.",
                 "occupation":"Software Developer | Back-End .Net"
             }
+    ],
+    "services": [
+        {
+            "id": 1,
+            "icon": "computer",
+            "serviceType": "Criação de Sites",
+            "description":"Criação de sites, websites personlizados. Sites em HTML, CSS, JS, React e Mysql."
+        },
+        {
+            "id": 2,
+            "icon": "devices",
+            "serviceType": "Responsive Design",
+            "description":"Sites adaptáveis em todos os dispositivos móveis, sites responsivos e flexbox."
+        },
+        {
+            "id": 3,
+            "icon": "travel_explore",
+            "serviceType": "Serviços de SEO",
+            "description":"Otimização de sites, paginas web para melhorar o posicionamento nos buscadores orgnanicos."
+        },
+        {
+            "id": 4,
+            "icon": "code",
+            "serviceType": "Freelancer Front-end",
+            "description":"Já possui a arte para seu site ou loja virtual? Desenvolvo a programação de seu projeto."
+        },
+        {
+            "id": 5,
+            "icon": "groups",
+            "serviceType": "Gestão de Equipe",
+            "description":"Gerenciamento de Equipes de Programadores e Desenvolvedores."
+        },
+        {
+            "id": 6,
+            "icon": "display_settings",
+            "serviceType": "Sistemas",
+            "description":"Precisa de um sistema personalizado para sua empresa? Conte comigo!"
+        }        
     ]
     
 }
